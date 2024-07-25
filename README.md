@@ -46,6 +46,7 @@
 - Achieved significant accuracy in bounding box predictions for rust detection tasks.
 
 ## Awards/Certificates
+- Google Advanced Data Analytics Specialization
 - Singapore Armed Forces Instructor Course
 - Director’s Honour Roll 2019
 
