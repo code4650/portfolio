@@ -8,7 +8,7 @@
 
 ## Education
 - B.E, Electrical Electronics Engineering | Nanyang Technological University (_Aug 2022 - Present_)							       		
-- Diploma	| Singapore Polytechnic (_Apr 2017 - Apr 2019_) | CGPA: 3.842	 			        		
+- Diploma, Electrical Electronics Engineering | Singapore Polytechnic (_Apr 2017 - Apr 2019_) | CGPA: 3.842	 			        		
 
 ## Work Experience
 **Machine Learning Engineering Intern @ DSO National Laboratories (_May 2024 - Jul 2024_)**
@@ -31,7 +31,7 @@
 - Utilized JavaScript libraries to extract and visualize JSON data.
 - Designed and implemented web pages using HTML, CSS, and JavaScript.
 - Leveraged MongoDB to host a local machine as a mock server, facilitating data management and testing.
-- Commercialized Solution: Contributed to the development of a commercialized solution that provided clients with real-time data visualization capabilities, enhancing decision-making processes and operational efficiency.
+- Contributed to the development of a commercialized solution that provided clients with real-time data visualization capabilities, enhancing decision-making processes and operational efficiency.
 
 ### Crack Detection (Object Detection)
 - Conducted project work within the Anaconda environment and Jupyter Notebook.
