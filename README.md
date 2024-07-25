@@ -7,7 +7,7 @@
 - Other: Data preprocessing, HyperParameter Tuning, Object detection, Web design
 
 ## Education
-- B.E, Electrical Electronics Engineering | Nanyang Technological University (_Aug 2022 - Present_)	| CGPA: 4.37						       		
+- B.E, Electrical Electronics Engineering | Nanyang Technological University (_Aug 2022 - Present_)							       		
 - Diploma	| Singapore Polytechnic (_Apr 2017 - Apr 2019_) | CGPA: 3.842	 			        		
 
 ## Work Experience
